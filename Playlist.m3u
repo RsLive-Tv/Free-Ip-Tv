@@ -1,13 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqhkCW4H/20241013-165643.png" group-title="Grope Name", BTV
-https://app.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsNnCF1D/20241005-171051.png" group-title="Grope Name", T Sports 1
-https://bdixtv247.techpriyo.com/tpl/chd/m3u8.php/bbtsp3.m3u8   
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPyMzjt/20241005-165038.png" group-title="Grope Name", T Sports 2 
-https://edge01.iptv.digijadoo.net/live/t_sports/l_342652_29563781_179913.ts?expires=1729032147&md5=dX39xJwan3qD_grWKtd7Kw&user=c15be118d93a464dabf77260596012cf     
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPyMzjt/20241005-165038.png" group-title="Grope Name", T Sports 
+http://starshare.live:8080/live/Leroy123/Leroy123/18452.m3u8      
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Grope Name", T Sports 2
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8  
@@ -20,6 +14,9 @@ https://rr2---sn-npoe23nsr.crehttp://119.156.26.155:8000/play/a069/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/fbxT9fjY/20241005-170916.png", Star Sports 2 	
 https://rr2---sn-npoe23nsr.creativehub.http://119.156.26.155:8000/play/a06a/index.m3u8   
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqhkCW4H/20241013-165643.png" group-title="Grope Name", BTV
+https://app.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHTyIzNmreFModGvh9yt_YMNu6pIFwhKHgrRIK_4Cw8aAwxTQygmnfXIG5&s=10" group-title="Grope Name", Cannel Europe
 https://app.jagobd.com.bd/live-orgin/channeleurope.stream/playlist.m3u8  
