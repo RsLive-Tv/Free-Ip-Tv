@@ -126,7 +126,7 @@ https://app.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:-1 group-title="JagoBD" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x91288",Channel I
 https://app.jagobd.com.bd/live-orgin/channeli-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="JagoBD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSiG_jQRLZUIzzn_7tu7tRwc-CifzQ14hAhw&s",Ekattor
-https://app.jagobd.com.bd/live-orgin/ekattor.stream/playlist.m3u8
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2176.m3u8 
 #EXTINF:-1 group-title="JagoBD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhuHJR0tzeTyoc6XnWJgNddJWkmt5y0spfHw&s",Ekushey TV
 https://app.jagobd.com.bd/live-orgin/ekusheytv-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="JagoBD" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/gaanbangla.jpg?x91288",Gaan Bangla
