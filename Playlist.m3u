@@ -9,13 +9,7 @@ http://tv.cloudcdn.me/live/00:1A:79:B7:2F:EA/SN_1697176355/48010.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports 
 https://fifabd.xyz/TTT/play.m3u8?id=2&q=720    
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvt1tJyj/20241008-193409.jpg" group-title="SPORTS", Tofee
-https://stream.imotv.online/toffe/live.php?id=9864cbf691c0&e=.m3u8  
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/3f28a637-5677-49fb-ad4d-126248820b5b.png?w=1200&f=PNG&p=true&q=60" group-title="SPORTS", TNT Sports 1
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=bbtsp1 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu741YRF-KMELghcQs6XUl3ZNdPTAGxtiRgw&usqp=CAU" group-title="SPORTS", TNT Sports 2
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=bbtsp2 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhhtFkCr/20241015-123346.png" group-title="SPORTS", Willow by Cricbuzz 
-https://billing.tfms.xyz/https://mymhdtvworld.com/live/stream.m3u8?id=5ae6ba4835bfd9b8399e61422a8feadd 
+https://stream.imotv.online/toffe/live.php?id=9864cbf691c0&e=.m3u8   
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtbtLMkpabzboj1J0yCJHrCrrcdEFqbfst_NrLJfyl2jz80hikm1eT_N43&s=10" group-title="SPORTS", Soco Live 
 https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1729042706-0-0-94866ca35593a4de8b038dcd004a453f 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbO5pcAGmhMMaqRWj6Xy2m9RsViMtGQdZ60kEiy7hGFUV3iEtsqsFnvbOA&s=10" group-title="Grope Name", Fifa Pulas
@@ -43,6 +37,9 @@ http://217.20.112.199/colorsbangla/index.m3u8
 
 #EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗕𝗮𝗻𝗴𝗹𝗮" tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png",𝙕𝙚𝙚 𝘽𝙖𝙣𝙜𝙡𝙖 𝙃𝘿
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/5uZAuYDhUt_iliyZjcxhPKY_HQYH7dGbKGDfp8cMtfZN6E56SVK3svaUwhLY35ECWlVfijdgTw=s900-c-k-c0x00ffffff-no-rj" group-title="Grope Name", Sony Aath
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2181.m3u8 
 
 #EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗕𝗮𝗻𝗴𝗹𝗮" tvg-logo="https://i.postimg.cc/J0QXn2jh/20240823_020641.png",𝙀𝙣𝙩𝙚𝙧 10 𝘽𝙖𝙣𝙜𝙡𝙖
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
