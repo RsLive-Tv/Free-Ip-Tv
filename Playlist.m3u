@@ -10,6 +10,23 @@ http://tv.cloudcdn.me/live/00:1A:79:B7:2F:EA/SN_1697176355/48010.m3u8
 https://fifabd.xyz/TTT/play.m3u8?id=2&q=720    
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvt1tJyj/20241008-193409.jpg" group-title="SPORTS", Tofee
 https://stream.imotv.online/toffe/live.php?id=9864cbf691c0&e=.m3u8   
+#EXTINF:-1, Sports 1 HD
+https://8r1fp7ro6am.a.trbcdn.net/SportTV4/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1,  Sports 2 HD 
+https://8r1fp7ro6am.a.trbcdn.net/SportTV1/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1, Sports 3 HD 
+https://8r1fp7ro6am.a.trbcdn.net/SportTV3/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1, Sports 4 HD 
+https://8r1fp7ro6am.a.trbcdn.net/SportTV4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Sports 5 HD 
+https://8r1fp7ro6am.a.trbcdn.net/SportTV6/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1, Sports 6 HD 
+https://8r1fp7ro6am.a.trbcdn.net/SportTV5/tracks-v2a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtbtLMkpabzboj1J0yCJHrCrrcdEFqbfst_NrLJfyl2jz80hikm1eT_N43&s=10" group-title="SPORTS", Soco Live 
 https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1729042706-0-0-94866ca35593a4de8b038dcd004a453f 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbO5pcAGmhMMaqRWj6Xy2m9RsViMtGQdZ60kEiy7hGFUV3iEtsqsFnvbOA&s=10" group-title="Grope Name", Fifa Pulas
