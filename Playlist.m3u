@@ -4,9 +4,9 @@
 https://video.twimg.com/ext_tw_video/1847158269573582848/pu/pl/k5cWOa0VSSroQAo9.m3u8?variant_version=1&tag=12       
 
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjwVh76M/20241018-160542.jpg" group-title="SPORTS", Tsports 
-http://tv.cloudcdn.me/live/00:1A:79:B7:2F:EA/SN_1697176355/48010.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports 
+http://tv.cloudcdn.me/live/00:1A:79:B7:2F:EA/SN_1697176355/48010.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjwVh76M/20241018-160542.jpg " group-title="SPORTS", Tsports 
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729267046/ei/BjESZ-DNDKnp9fwPiMeG6QU/ip/103.213.38.37/id/dlW7JSh8tHA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/bd/spc/54MbxXxOMkYqizNLLlc8P1TIlMFZ05zYYPwJJMI9imn_5fpl1VFTyQV-VHX-_bw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51319288/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgeRvtf1fExDlavUELNHjGjYczF4ZVciQBF2yuk9dV_sACIGQ39CMDrYpge-EDqpBQmAIyglicMqusU1V2yyl0vNlo/file/index.m3u8     
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvt1tJyj/20241008-193409.jpg" group-title="SPORTS", Tofee
 https://stream.imotv.online/toffe/live.php?id=9864cbf691c0&e=.m3u8   
