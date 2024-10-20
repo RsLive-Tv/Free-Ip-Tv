@@ -251,6 +251,10 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8 
 >>>>>>>>>>>>>>>KIDS<<<<<<<<<<<<<<<<<<<<
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="KIDS", Discovery Bangla 
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/ed/Duronto_TV_logo.png/revision/latest/scale-to-width-down/340?cb=20230525082520" group-title="KIDS", DURONTO TV
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2352.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLzy1LnT/20241008-185443.jpg",RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ItNbKDi8zqEWZNg40OpVW0hQEoiXGLF9_Q&usqp=CAU", Khushboo TV Bangla
