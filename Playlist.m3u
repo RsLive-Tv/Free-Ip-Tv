@@ -95,11 +95,11 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/XqhkCW4H/20241013-165643.png",BTV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8?nimblesessionid=413393674&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjM4OjMyIFBNJmhhc2hfdmFsdWU9a1puZDg2K1BiVFJrcERmZzJHQVU0dz09JnZhbGlkbWludXRlcz00MA==  
 #EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png" tvg-id="<built-in function id>" group-title="BANGLADESH",ATN Bangla 
-3	https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=XYpn9BB3uPVL2G2ySeg8tg&expires=1729609116&user=d477246e9e724f81a011b847457e71c4 
-4	#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" tvg-id="<built-in function id>" group-title="BANGLADESH",ATN News 
-5	https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=HigxtShfSvpIcRuqR5pQug&expires=1729609117&user=d477246e9e724f81a011b847457e71c4 
-6	#EXTINF:-1 tvg-name="Al Jazeera English HD" tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png" tvg-id="<built-in function id>" group-title="BANGLADESH",Al Jazeera English HD 
-7	https://edge01.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8?md5=9GKA2OPCX-77nEmHOXCH6Q&expires=1729609118&user=d477246e9e724f81a011b847457e71c4  
+https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=XYpn9BB3uPVL2G2ySeg8tg&expires=1729609116&user=d477246e9e724f81a011b847457e71c4 
+#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" tvg-id="<built-in function id>" group-title="BANGLADESH",ATN News 
+https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=HigxtShfSvpIcRuqR5pQug&expires=1729609117&user=d477246e9e724f81a011b847457e71c4 
+#EXTINF:-1 tvg-name="Al Jazeera English HD" tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png" tvg-id="<built-in function id>" group-title="BANGLADESH",Al Jazeera English HD 
+https://edge01.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8?md5=9GKA2OPCX-77nEmHOXCH6Q&expires=1729609118&user=d477246e9e724f81a011b847457e71c4  
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxqmVW1g8F9AilXAR78JdFwjxx38RyuI3m4OgKySNx2NpS1kr9T3Bl_Ow&s=10" group-title="BANGLADESH", Atn Music
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8 
