@@ -16,6 +16,8 @@ https://stream.imotv.online/toffe/live.php?id=9864cbf691c0&e=.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png" group-title="Grope Name", Sports 1 HD 
 https://8r1fp7ro6am.a.trbcdn.net/SportTV1/tracks-v3a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTPyj5vrlh4jnktbsyoFCuzCbeBvN47catnw&usqp=CAU" group-title="Grope Name", Sports 2 HD
+https://8r1fp7ro6am.a.trbcdn.net/SportTV2/index.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1vFQKIGbzjmhoSjHiMASKKEuysd8NKpBbhA&usqp=CAU" group-title="SPORTS", Sports 3 HD 
 https://8r1fp7ro6am.a.trbcdn.net/SportTV3/tracks-v2a1/mono.m3u8
 
@@ -271,9 +273,6 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 group-title="𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗼𝗿𝘆" tvg-logo="https://i.postimg.cc/43NXkFx5/20240823_023458.png",𝘼𝙣𝙞𝙢𝙖𝙡 𝙋𝙡𝙖𝙣𝙚𝙩
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_11_0_21677082.aac?m=1669215976
-#EXTINF:-1 group-title="𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗼𝗿𝘆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj33DnGGI7520Upxw725goYhYMR58tKCCuZT47pAZVL2PsKmpiY_HINpmXJoWxQUVavN9EibiI9PTOKwB8j2dMd5ElvGRbekSCApDQOTYes66MQSNGeAdOCMMPsGFDzHeBhXedA1MtQrqb_44Ty_C4loHIdUH4WgppV2ARk0PQ3POo7W2Y35a5y/s370/nicknewlogo.png 
-",Nick 
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2231.m3u8
 
 
 >>>>>>>>>>>>>>>>>>>>>>ZEE-5 Playlist<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
