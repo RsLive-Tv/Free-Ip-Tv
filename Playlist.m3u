@@ -253,8 +253,10 @@ https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="KIDS", Discovery Bangla 
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8 
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/ed/Duronto_TV_logo.png/revision/latest/scale-to-width-down/340?cb=20230525082520" group-title="KIDS", DURONTO TV
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2352.m3u8 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLzy1LnT/20241008-185443.jpg",RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ItNbKDi8zqEWZNg40OpVW0hQEoiXGLF9_Q&usqp=CAU", Khushboo TV Bangla
@@ -329,7 +331,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/576b9cd1-dcd1-4855-b4cc-0954a10e23c7/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKIw-wZX2MHWzpsC3lBRL6-vsLuYPXFC0GnYFAplt2Y44BBiURXKAqrAs&s=10",balle balle
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/1fb45870-e96b-403b-a08c-9b10838acdbc/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8n376bd8417a1b6761138aa41c26c7309312/balle-balle/1fb45870-e96b-403b-a08c-9b10838acdbc/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5PoYLuRBTRrIqg_Te-Lc-EjsCN3bZzBZpUrQyzVITKuzmNBfAwfPXTg&s=10",9x TASHAN
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
